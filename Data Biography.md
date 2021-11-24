@@ -2,7 +2,7 @@
 
 ### Declaration of Authorship
 
-I,li jianqiao, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I,jianqiao li, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
 [Jianqian Li]
 
@@ -50,7 +50,7 @@ The dataset supports two types of data analysis: fundamental one-dimensional dat
 - Textual Data Analysis: The text analysis can be aided by the data columns 'description,' 'host about,' and 'host response time.' A cluster analysis of the listing descriptions may determine the most frequently used keywords and create a word cloud.
 
 2. **Advanced multi-dimensional data analysis**:
-- the Socio-spatial Analysis: We mix data from different dimensions, because a single dimension of data is insufficient to investigate socio-spatial issues. For example, when we assess the socio-spatial outcomes of short-term rentals[[7]]((https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/full/10.1177/0308518X19869012)), it is necessary to combine the spatial data with numeric data (price, availability day) in the analysis process. In other words, using multi-dimensional analysis would better determine how do the Airbnb market reshapes the community's society and space.
+- The Socio-spatial Analysis: We mix data from different dimensions, because a single dimension of data is insufficient to investigate socio-spatial issues. For example, when we assess the socio-spatial outcomes of short-term rentals[[7]]((https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/full/10.1177/0308518X19869012)), it is necessary to combine the spatial data with numeric data (price, availability day) in the analysis process. In other words, using multi-dimensional analysis would better determine how do the Airbnb market reshapes the community's society and space.
 
 ---
 ### 7. Which of the uses presented in Q.6 are ethical?
