@@ -45,12 +45,12 @@ However, because there is some structurally missing data, there are some defects
 ### 6. What kinds of analysis would this support?
 The dataset supports two types of data analysis: fundamental one-dimensional data analysis and advanced multi-dimensional data analysis.
 1. One-dimensional data analysis**:
-- Spatial data analysis: Visualizing and mapping the location information and neighborhoods associated with the   listings referenced in question 4 to determine the quantity, concentration, and spatial significance of Airbnb listings in a region[[6]]((http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf.)).
+- Spatial data analysis: isualizing and mapping the location information and neighborhoods associated with the   listings referenced in question 4 to determine the quantity, concentration, and spatial significance of Airbnb listings in a region[[6]]((http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf.)).
 - Numeric Data Analysis: This type of analysis allows for some quantitative description of the data, for example, using regression analysis to explore the existence of a correlation between price and the rating of a property.
 - Textual Data Analysis: The text analysis can be aided by the data columns 'description,' 'host about,' and 'host response time.' A cluster analysis of the listing descriptions may determine the most frequently used keywords and create a word cloud.
 
 2. **Advanced multi-dimensional data analysis**:
-- We mix data from different dimensions, because a single dimension of data is insufficient to investigate socio-spatial issues. For example, when we assess the socio-spatial outcomes of short-term rentals[[7]]((https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/full/10.1177/0308518X19869012)), it is necessary to combine the spatial data with numeric data (price, availability day) in the analysis process. In other words, using multi-dimensional analysis would better determine how do the Airbnb market reshapes the community's society and space.
+- the Socio-spatial Analysis: We mix data from different dimensions, because a single dimension of data is insufficient to investigate socio-spatial issues. For example, when we assess the socio-spatial outcomes of short-term rentals[[7]]((https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/full/10.1177/0308518X19869012)), it is necessary to combine the spatial data with numeric data (price, availability day) in the analysis process. In other words, using multi-dimensional analysis would better determine how do the Airbnb market reshapes the community's society and space.
 
 ---
 ### 7. Which of the uses presented in Q.6 are ethical?
