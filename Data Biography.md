@@ -62,20 +62,20 @@ Secondly, **_context_** is essential for ethical analysis[9], as the data are no
 
 ---
 ## Bibliography
-[1]  <a>M.Cox.(2016). _About Inside Airbnb_ [Online] . Available: http://insideairbnb.com/about.html</a>
+[1]&emsp;M.Cox.(2016). _About Inside Airbnb_ [Online] . Available: http://insideairbnb.com/about.html
 
-[2]  <a>M.Cox.(2016). _Behind Inside Airbnb_ [Online] . Available: http://insideairbnb.com/behind.html</a>
+[2]&emsp;M.Cox.(2016). _Behind Inside Airbnb_ [Online] . Available: http://insideairbnb.com/behind.html
 
-[3]  <a>M.Cox.(2016)._Airbnb in London_.[Online] . Available: http://insideairbnb.com/london/neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false#</a>
+[3]&emsp;M.Cox.(2016)._Airbnb in London_.[Online] . Available: http://insideairbnb.com/london/neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false#
 
-[4]  <a>D.Wachsmuth,A.Weisler.(2018,June) "Airbnb and the rent gap: Gentrification through the sharing economy".Environment and Planning A: Economy and Space, 50(6), pp. 1147–1170.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/10.1177/0308518X18778038</a>
+[4]&emsp;D.Wachsmuth,A.Weisler.(2018,June) "Airbnb and the rent gap: Gentrification through the sharing economy".Environment and Planning A: Economy and Space, 50(6), pp. 1147–1170.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/10.1177/0308518X18778038
 
-[5]  <a>P.Törnberg , L.Chiappini."Selling black places on Airbnb: Colonial discourse and the marketing of black communities in New York City".Environment and Planning A: Economy and Space, 52(3), pp. 553–572.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/10.1177/0308518X19886321?icid=int.sj-full-text.similar-articles.2</a>
+[5]&emsp;P.Törnberg , L.Chiappini."Selling black places on Airbnb: Colonial discourse and the marketing of black communities in New York City".Environment and Planning A: Economy and Space, 52(3), pp. 553–572.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/10.1177/0308518X19886321?icid=int.sj-full-text.similar-articles.2
 
-[6]  <a>M. Cox and T. Slee.(2016,Fed) “How Airbnb’s Data Hid the Facts in New York City.” Inside Airbnb [online], Available: http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf.</a>
+[6]&emsp;M. Cox and T. Slee.(2016,Fed) “How Airbnb’s Data Hid the Facts in New York City.” Inside Airbnb [online], Available: http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf.
 
-[7]  <a>A.Cocola-Gant, A.Gago.(2019,August)"Airbnb, buy-to-let investment and tourism-driven displacement": A case study in Lisbon.Environment and Planning A: Economy and Space, 53(7), pp. 1671–1688.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/full/10.1177/0308518X19869012</a>
+[7]&emsp;A.Cocola-Gant, A.Gago.(2019,August)"Airbnb, buy-to-let investment and tourism-driven displacement": A case study in Lisbon.Environment and Planning A: Economy and Space, 53(7), pp. 1671–1688.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/full/10.1177/0308518X19869012
 
-[8]  <a>V.Bemt,J.Doornbos,L.Meijering,M.Plegt, et al.(2019,August)"Teaching ethics when working with geocoded data: A novel experiential learning approach.",Journal of Geography in Higher Education", 53(7), pp. 1671–1688.Available:https://www-tandfonline-com.libproxy.ucl.ac.uk/doi/full/10.1080/03098265.2018.1436534?scroll=top&needAccess=true</a>
+[8]&emsp;V.Bemt,J.Doornbos,L.Meijering,M.Plegt, et al.(2019,August)"Teaching ethics when working with geocoded data: A novel experiential learning approach.",Journal of Geography in Higher Education", 53(7), pp. 1671–1688.Available:https://www-tandfonline-com.libproxy.ucl.ac.uk/doi/full/10.1080/03098265.2018.1436534?scroll=top&needAccess=true
 
-[9]  <a>C.D'Ignaziov and L.F.Klein,"The Numbers Don't Speak for Themselves," in Data feminism, D.Weinberger, Ed.The MIT Press,2020,pp.149-170</a>
+[9]&emsp;C.D'Ignaziov and L.F.Klein,"The Numbers Don't Speak for Themselves," in Data feminism, D.Weinberger, Ed.The MIT Press,2020,pp.149-170
