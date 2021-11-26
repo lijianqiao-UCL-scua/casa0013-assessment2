@@ -66,7 +66,7 @@ Secondly, **_context_** is essential for ethical analysis[9], as the data are no
 
 [2]&emsp;M.Cox.(2016). _Behind Inside Airbnb_ [Online] . Available: http://insideairbnb.com/behind.html
 
-[3]&emsp;M.Cox.(2016)._Airbnb in London_.[Online] . Available: http://insideairbnb.com/london/neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false#
+[3]&emsp;M.Cox.(2016)._Airbnb in London_.[Online] . Available:                               http://insideairbnb.com/london/neighbourhood=&filterEntireHomes=false&filterHighlyAvailable=false&filterRecentReviews=false&filterMultiListings=false#
 
 [4]&emsp;D.Wachsmuth,A.Weisler.(2018,June) "Airbnb and the rent gap: Gentrification through the sharing economy".Environment and Planning A: Economy and Space, 50(6), pp. 1147–1170.Available:https://journals-sagepub-com.libproxy.ucl.ac.uk/doi/10.1177/0308518X18778038
 
